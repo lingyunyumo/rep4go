@@ -21,6 +21,10 @@ msgstr ""
 msgid "Welcome"
 msgstr ""
 
+#. welcome again.
+msgid "Welcome again"
+msgstr ""
+
 #. Translate this slightly longer message, and try to see if your current editor supports spell checking for your language if you spell something wrong.
 msgid "This file gives help to learn about translation"
 msgstr ""
